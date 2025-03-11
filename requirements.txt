@@ -1,0 +1,29 @@
+# Core dependencies
+python>=3.9
+
+# Web framework
+streamlit==1.27.2
+
+# PDF processing (optional if needed in future updates)
+pypdf==3.9.1
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.0
+
+# AI & LLM
+langchain==0.1.0
+langchain_groq==0.0.7
+langchain_openai==0.0.6
+
+# FAISS for document retrieval
+faiss-cpu==1.7.4
+
+# Environment variables
+python-dotenv==1.0.1
+
+# API interaction
+requests==2.31.0
+
+# Regular Expressions
+regex==2023.12.25

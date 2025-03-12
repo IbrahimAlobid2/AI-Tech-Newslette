@@ -66,6 +66,10 @@ streamlit run app.py
 3️⃣ Click **"Generate Newsletter"**.
 4️⃣ View the extracted articles, summaries, and **download the generated newsletter as CSV**.
 
+## 🖼️ Screenshots
+
+![Screenshots](./images/ui.png)  
+
 ## 🛠️ Troubleshooting
 ### If `FAISS` fails to import:
 ```bash
